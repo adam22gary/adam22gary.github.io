@@ -10,7 +10,7 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 #IMPORTANT:
 
 1. Allow the website your location for the weather to active
-2. Javascript need to be enabled
+2. Javascript need to be enabled ddddd
 
 #Purpose:
 
