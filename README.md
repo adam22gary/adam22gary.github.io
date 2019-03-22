@@ -38,11 +38,11 @@ index.html
 
 1. Desktop - 
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/screencapture-adam22gary-github-io-2019-03-22-13_42_31.png "screenshot desktop")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-adam22gary-github-io-2019-03-22-13_42_31.png "screenshot desktop")
 
 2. Phone - 
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/screencapture-adam22gary-github-io-2019-03-22-13_45_22.png "screenshot phone")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-adam22gary-github-io-2019-03-22-13_45_22.png "screenshot phone")
 
 #Target audience:
 
@@ -66,15 +66,15 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 
 1. Pen and Paper - 
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/penPaper.jpg "wireframe pen")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/penPaper.jpg "wireframe pen")
 
 2. Desktop - 
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/wireframes.png "wireframes desktop")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/wireframes.png "wireframes desktop")
 
 3. Phone - 
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/wireframesSmartPhone.png "wireframes phone")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/wireframesSmartPhone.png "wireframes phone")
 
 #Usability considerations
 
