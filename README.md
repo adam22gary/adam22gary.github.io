@@ -84,7 +84,7 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 
 #Project plan:
 
-![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/screencapture-trello-b-I0NeDnUO-resume-coder-academy-2019-03-22-15_58_05.png "Trello")
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-trello-b-I0NeDnUO-resume-coder-academy-2019-03-22-15_58_05.png "Trello")
 
 3 Questions
 
