@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+    <title>Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="src/normalize.css">
+    <link rel="stylesheet" href="src/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body onload="startTime()">
+
+<div class="desktop">
+    <div class="desktopImage"></div>
+</div>
+
+<nav id="openSesame">
+    <a href="javascript:void(0)" class="x" title="close" id="x">✘</a>
+    <ul class="theNavNav" id="theNavNav">
+        <li><a href="#" title="Home">Home</a></li>
+        <li><a href="#gallery" title="Gallery">Gallery</a></li>
+        <li><a href="#about" title="About">About</a></li>
+        <li><a href="#contact" title="Contact">Contact</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <div id="top">
+        <!-- <span class="adam" id="adam">Adam.</span> -->
+        <ul class="theNavNav2" id="theNavNav2">
+            <li><a href="#" title="Home">Home</a></li>
+            <li><a href="#gallery" title="Gallery">Gallery</a></li>
+            <li><a href="#about" title="About">About</a></li>
+            <li><a href="#contact" title="Contact">Contact</a></li>
+        </ul>
+        <span class="menu" id="menu" title="open">&#9776;</span>
+    </div>
+
+    <header id="home">
+        <h1 id="welcome"></h1>
+        <p class="adam" id="adam">Adam.</p>
+        <!-- date + time -->
+        <div id="date"></div>
+        <div id="time"></div>
+        <!-- weather -->
+        <div class="material-card">
+            <div><canvas id="icon" width="100" height="auto"></canvas></div>
+            <div id="tempC">Loading...</div>
+            <div id="tempF"></div>
+            <div id="locationName"></div>
+            <div>
+                <button type="button" class="btn btn-secondary" id="toggle">C <> F</button>
+            </div>
+        </div>
+        <!-- for da phone size -->
+        <img src="docs/g3.jpg" class="image1" alt="image of the stars" title="image of the stars" />
+        <img src="docs/g3.jpg" class="image2" alt="image of the stars" title="image of the stars" />
+    </header>
+
+    <section class="content" id="gallery">
+        <h2>Gallery</h2>
+        <hr class="hr">
+        <div class="flex-gallery">
+            <div class="flex-img">
+                <img src="docs/snow.jpg" alt="Snowboarding" title="Snowboarding" />
+                <div class="text-block">
+                    <p>Snowboarding - Japan</p>
+                </div>
+            </div>
+            <div class="flex-img">
+                <img src="docs/travel.png" alt="Traveling" title="Traveling" />
+                <div class="text-block">
+                    <p>To travel is to live</p>
+                </div>
+            </div>
+            <div class="flex-img">
+                <img src="docs/love.jpg" alt="From Aus with Love" title="From Aus with Love" />
+                <div class="text-block">
+                    <p>From Aus with Love</p>
+                </div>
+            </div>
+            <div class="flex-img">
+                <img src="docs/teach.jpg" alt="From Aus with Love" title="From Aus with Love" />
+                <div class="text-block">
+                    <p>Cambodia</p>
+                </div>
+            </div>
+            <div class="flex-img">
+                <img src="docs/bussiness.jpg" alt="business" title="business" />
+                <div class="text-block">
+                    <p>Small Business</p>
+                </div>
+            </div>
+            <div class="flex-img">
+                <img src="docs/code.jpg" alt="coding image" title="coding image" />
+                <div class="text-block">
+                    <p>Coding</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content" id="about">
+        <h2>About</h2>
+        <hr class="hr">
+        <p>I am a respectful, self motivated and kind individual who is eager to learn new skills, I am also a problem-solver by nature. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi officiis neque consectetur. Odio, provident, molestiae similique repellat excepturi nam ipsum facilis, mollitia officiis rem assumenda doloribus.</p>
+    </section>
+
+    <section class="content" id="history">
+        <h2>History</h2>
+        <hr class="hr">
+        <div class="history-box">
+            <div class="history-outside">
+                <img src="docs/dss.png" alt="Dynamic logo" title="Dynamic Support Services" class="history-img"/>
+            </div>
+            <div class="history-outside">
+                <p class="history-text">Established in 2016 to current, Dynamic Support Services is a disability service focusing in short and long term accommodation. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi officiis neque consectetur. Odio, provident, molestiae similique repellat excepturi nam ipsum facilis, mollitia officiis rem assumenda doloribus.</p>
+            </div>
+        </div>
+        <div class="history-box">
+            <div class="history-outside">
+                <img src="docs/small.fw.png" alt="Small Cloud Design" title="Small Cloud Design" class="history-img2"/>
+            </div>
+            <div class="history-outside">
+                <p class="history-text">Established in 2013 to current, Small Cloud Design is a printing company based in Malaysia. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi officiis neque consectetur. Odio, provident, molestiae similique repellat excepturi nam ipsum facilis, mollitia officiis rem assumenda doloribus.</p>
+            </div>
+        </div>
+        <div class="history-box">
+            <div class="history-outside">
+                <img src="docs/time.jpg" alt="From Aus with Love" title="From Aus with Love" class="history-img2"/>
+            </div>
+            <div class="history-outside">
+                <p class="history-text">Established in 2012 to 2015, From Aus with Love was a charity assisting students in developing countries with educational resources such as classroom, tables & chairs, whiteboards, stationery etc. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi officiis neque consectetur. Odio, provident, molestiae similique repellat excepturi nam ipsum facilis, mollitia officiis rem assumenda doloribus.</p>
+            </div>
+        </div>
+        <div class="history-box">
+            <div class="history-outside">
+                <img src="docs/upbeat.fw.png" alt="Upbeat Health" title="Upbeat Health" class="history-img2"/>
+            </div>
+            <div class="history-outside">
+                <p class="history-text">Established in 2008 to current, Upbeath Health is a catering company for school canteens. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi officiis neque consectetur. Odio, provident, molestiae similique repellat excepturi nam ipsum facilis, mollitia officiis rem assumenda doloribus.</p>
+            </div>
+        </div>
+        <div class="history-box">
+            <div class="history-outside">
+                <img src="docs/coder.jpg" alt="Coder Academy" title="Coder Academy" class="history-img3"/>
+            </div>
+            <div class="history-outside">
+                <p class="history-text">Studying from 2019 to current, Coder Academy provides its students with the knowledge, skillsets, and industry connections they need to bring even the most far-fetched ideas to life.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi, mollitia officiis rem assumenda doloribus.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="content">
+        <h2>LinkedIn</h2>
+        <hr class="hr">
+        <div class="LI-profile-badge linked-in"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="adam-gary-033974182"><a class="LI-simple-link" href='https://au.linkedin.com/in/adam-gary-033974182?trk=profile-badge'>adam gary</a></div>
+        <p class="p-center">Click the image above to go to my LinkedIn account.</p>
+    <section class="content">
+        <h2>Git Hub</h2>
+        <hr class="hr">
+        <a href="https://github.com/adam22gary?tab=repositories" title="Link to GitHub" id="git"><img src="docs/gHub.svg" alt="Link to GitHub" title="Link to GitHub" id="git_img" /></a>
+        <p class="p-center">Click the image above to go to my GitHub account.</p>
+    </section>
+
+    <section class="content" id="contact">
+        <h2>Contact Me</h2>
+        <hr class="hr">
+        <table class="table">
+            <tbody>
+                <tr><td class="bold">Name:</td><td>Adam Gary</td></tr>       
+                <tr><td class="bold">Phone:</td><td>0455 555 555</td></tr>
+                <tr><td class="bold">Email:</td><td>adamgary@australia.com.au</td></tr>
+                <tr><td class="bold">Location:</td><td>Sydney, Australia</td></tr>
+            </tbody>
+        </table>
+        <!-- google maps -->
+        <div class="mapouter"><div class="gmap_canvas"><iframe width="270" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com"></a></div><style>.mapouter{position:relative;text-align:right;height:400px;width:270px;margin: 25px auto;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:270px;}</style></div>    </section>
+    <footer>
+        <hr class="hr" />
+        <!-- <h2>Footer Me</h2> -->
+        <p class="adam" id="adam">Thank you for visiting the website - Adam.</p>
+        <p id="date2"></p>
+    </footer>
+  
+</div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="src/action.js"></script>
+<script src="https://rawgithub.com/darkskyapp/skycons/master/skycons.js"></script>
+</body>
+</html>

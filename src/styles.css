@@ -1,0 +1,348 @@
+html,body{
+    font-family:"Segoe UI",Arial,sans-serif;
+    font-size:15px;
+    line-height:1.5;
+    color: #333;
+    transition: all 1s ease;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight:400;
+    margin:10px 0;
+    font-size:36px;
+    color: #000;
+}
+h2,#date,#time,#tempC,#tempF,#locationName{
+    font-family:"Segoe UI",Arial,sans-serif;
+    font-weight:400;
+    margin:10px 0;
+    font-size:30px;
+    color: #000;
+}
+#tempC,#tempF,#locationName{
+    font-family:"Segoe UI",Arial,sans-serif;
+    font-weight:400;
+    margin:0;
+    font-size:30px;
+    color: #000;
+}
+.desktop{
+    height:100%;
+    width:40%;
+    background-color:#fff;
+    position:fixed;
+    z-index:1;
+    top: 0;
+    left: 0;
+}
+.desktopImage{
+    background-image: url('../docs/g3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+nav{
+    height:100%;
+    width:200px;
+    background-color:#ccc;
+    position:fixed;
+    overflow:auto;
+    font-size:36px;
+    display:none;
+    padding-top:150px;
+    right:0;
+    z-index:11;
+    transition: all 1s ease;
+}
+.theNavNav{
+    width: 100%;
+    display: block;
+    padding: 0;
+    text-align: center;
+    transition: all 1s ease;
+}
+.theNavNav a{
+    color: #333;
+    padding: 8px 16px;
+    display: block;
+    text-align: center;
+    text-decoration:none;
+    cursor:pointer;
+}
+.theNavNav a:hover{
+    background-color: #fff;
+}
+.theNavNav2{
+    width: 100%;
+    /* padding: 0 0 0 10%; */
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    list-style-type: none;
+    overflow: hidden;
+}
+.theNavNav2 li{
+    float: left;
+    width: 25%;
+}
+.theNavNav2 li a{
+    color: #333;
+    padding: 20px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    font-family: inherit;
+    font-size: 14px;
+    text-decoration: none;
+    display: block;
+}
+.theNavNav2 li a:hover{
+    background-color: #ccc;
+}
+.x{
+    display:block;
+    padding:8px 18px;
+    text-decoration:none;
+    color:inherit;
+    background-color:inherit;
+    cursor:pointer;
+    position:fixed;
+    z-index:12;
+    top:0;
+    font-size:36px;
+    width:auto;
+    right:0;
+}
+.x:hover{
+    background-color: #fff;
+}
+.container{
+    padding:12px 24px;
+    margin-left:40%;
+    transition:margin-left .4s;
+}
+.image1{
+    max-width:100%;
+    height:100%;
+    display:block;
+    width:60%;
+    margin:auto;
+}
+.image2{
+    width: 900px;
+    height: 100%;
+    max-width:100%;
+}
+
+/* top where hamburger menu is */
+#top{
+    /* width: 60%; */
+    height: 70px;
+    background: #fff;
+    z-index: 10;
+    position: fixed;
+    top:0;
+    right: 0;
+}
+.menu{
+    display:block;
+    padding:8px 16px;
+    text-decoration:none;
+    color:inherit;
+    background-color:inherit;
+    text-align:center;
+    cursor:pointer;
+    position:fixed;
+    z-index:5;
+    top:0;
+    font-size:36px;
+    width:auto;
+    right:0;
+}
+.menu:hover{
+    background-color: #ccc;
+}
+header{
+    text-align:center;
+    padding:128px 16px 64px;
+}
+footer{
+    text-align:center;
+    padding:64px 16px 15px;
+}
+.content{
+    margin-left:auto;
+    margin-right:auto;
+    max-width:980px;
+    padding-top:70px;
+    padding-bottom:0px;
+    text-align:justify;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.hr{
+    opacity:0.60;
+}
+.p-center{
+    text-align: center;
+}
+.flex-gallery{
+    /* margin:0 -16px; */
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.flex-img{
+    position: relative;
+    width: 45%;
+    min-width: 270px;
+    margin: 0 0 12px 0;
+}
+.flex-img img{
+    width: 100%;
+    height: 100%;
+}
+.text-block {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-family:"Segoe UI",Arial,sans-serif;
+    /* background-color: rgb(8, 8, 8, 0.5); */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: right;
+    padding: 0 5% 0 0;
+    width: 95%;
+}
+/* history */
+.history-box{
+    padding: 40px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.history-outside{
+    width: 45%;
+    min-width: 300px;
+    display: block;
+}
+.history-img{
+    width: 160px;
+    height: 190px;
+    margin: 20px auto 0;
+    display: block;
+}
+.history-img2{
+    width: 100%;
+    min-width: 270px;
+    max-width: 270px;
+    margin: 20px auto 0;
+    display: block;
+}
+.history-img3{
+    width: 100%;
+    min-width: 220px;
+    max-width: 220px;
+    margin: 5px auto 0;
+    display: block;
+}
+.history-text{
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+/* weather */
+#icon{
+    font-size: 100px;
+    color: white;
+}
+.material-card{
+    width: 100%;
+    height: auto;
+    padding: 10px 0 20px 0;
+    margin: 0 0 10px 0;
+    color: #333;
+  /* background:#333; */
+}
+
+#toggle{ 
+    color: #fff;
+    background-color: #4099ff;
+    padding: 7px 15px;
+    margin: 5px 0;
+    border: none;
+}
+/* link */
+#linked,#git{
+    width:300px;
+    margin: 25px auto;
+    display: block;
+}
+.linked-in{
+    width: 300px;
+    margin: 25px auto;
+}
+#git_img{
+    width: 100%;
+    max-width: 270px;
+}
+/* table */
+.table{
+    width: 300px;
+    padding: 10px 0;
+}
+.bold{
+    font-weight: bold;
+}
+  
+
+@media screen and (max-width:600px){
+    /* #sma */
+    .desktop,.image1{
+        display:none;
+    }
+    #menu{
+        display: block;
+    }
+}
+
+@media screen and (min-width:851px){
+    /* #lar */
+    .image1,.image2{
+        display:none;
+    }
+    #top{
+        width: 60%;
+    }
+    #menu{
+        display: none;
+    }
+}
+@media screen and (max-width:850px) and (min-width:601px){
+    /* #med */
+    .desktop,.image2{
+        display:none;
+    }
+    #menu{
+        display: block;
+    }
+}
+@media screen and (max-width:850px){
+    .container{
+        margin-left:0;
+        margin-right:0;
+    }
+    #top{
+        width: 100%;
+    }
+    #theNavNav2{
+        display: none;
+    }
+    #menu{
+        display: block;
+    }
+}
