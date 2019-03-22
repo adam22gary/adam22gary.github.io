@@ -9,8 +9,9 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 
 #IMPORTANT:
 
-1. Allow the website your location for the weather to active
-2. Javascript need to be enabled ddddd
+1. Read the read me file on github to see the images of wireframes and screenshots 
+2. Allow the website your location for the weather to active
+3. Javascript need to be enabled ddddd
 
 #Purpose:
 
