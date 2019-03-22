@@ -34,7 +34,7 @@ function startTime() {
     //     var add12 = makeNum + 12;
     // }
     // alert(h)
-    var add12 = 6;
+    var add12 = h;
     if(add12 >= 0 && add12 <= 11){
         document.getElementById('welcome').innerHTML = "Good morning";
     }else if(add12 >= 12 && add12 <= 17){
