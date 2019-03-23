@@ -84,7 +84,10 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 #Usability considerations
 
 1. alt attribute on image tag
-2. title attribute on anchor tag
+2. title attribute on anchor tag, button, images and links
+3. The use of white space and padding to unclutter the website
+4. Content centered for desktop and mobile
+5. Focus more on content and layout functions rather then strong background colors and 
 
 
 #Project plan:
