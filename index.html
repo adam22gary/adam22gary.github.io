@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
-    <title>Portfolio</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="src/normalize.css">
-    <link rel="stylesheet" href="src/styles.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <head>
+        <title>Portfolio</title>
+        <link rel="icon" href="docs/a.fw.png" type="image/png" sizes="16x16" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="src/normalize.css" />
+        <link rel="stylesheet" href="src/styles.css" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    </head>
 <body onload="startTime()">
 
 <div class="desktop">
@@ -48,7 +51,7 @@
             <div id="tempF"></div>
             <div id="locationName"></div>
             <div>
-                <button type="button" class="btn btn-secondary" id="toggle">C <> F</button>
+                <button type="button" class="btn btn-secondary" title="Change from celsius to fahrenheit" id="toggle">C <> F</button>
             </div>
         </div>
         <!-- for da phone size -->
@@ -145,7 +148,7 @@
                 <img src="docs/coder.jpg" alt="Coder Academy" title="Coder Academy" class="history-img3"/>
             </div>
             <div class="history-outside">
-                <p class="history-text">Studying from 2019 to current, Coder Academy provides its students with the knowledge, skillsets, and industry connections they need to bring even the most far-fetched ideas to life.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi, mollitia officiis rem assumenda doloribus.</p>
+                <p class="history-text">Studying from 2019 to current, I am a full stack junior developer based in Sydney, Australia. Coder Academy provides its students with the knowledge, skillsets, and industry connections they need to bring even the most far-fetched ideas to life.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt tenetur corrupti fugit excepturi, mollitia officiis rem assumenda doloribus.</p>
             </div>
         </div>
     </section>
@@ -153,7 +156,9 @@
     <section class="content">
         <h2>LinkedIn</h2>
         <hr class="hr">
-        <div class="LI-profile-badge linked-in"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="adam-gary-033974182"><a class="LI-simple-link" href='https://au.linkedin.com/in/adam-gary-033974182?trk=profile-badge'>adam gary</a></div>
+        <!-- Linked in badge does not always show -->
+        <!-- <div class="LI-profile-badge linked-in"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="adam-gary-033974182"><a class="LI-simple-link" href='https://au.linkedin.com/in/adam-gary-033974182?trk=profile-badge'>adam gary</a></div> -->
+        <a href="https://github.com/adam22gary/adam22gary.github.io" title="Link to LinkedIn" id="linked"><img src="docs/linkedin.fw.png" alt="Link to LinkedIn" title="Link to LinkedIn" id="linked_img" /></a>
         <p class="p-center">Click the image above to go to my LinkedIn account.</p>
     <section class="content">
         <h2>Git Hub</h2>

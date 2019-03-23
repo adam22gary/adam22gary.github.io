@@ -189,16 +189,16 @@ h1{
     text-align: center;
 }
 .flex-gallery{
-    /* margin:0 -16px; */
     width: 100%;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
 .flex-img{
     position: relative;
     width: 45%;
-    min-width: 270px;
+    min-width: 220px;
     margin: 0 0 12px 0;
 }
 .flex-img img{
@@ -266,7 +266,6 @@ h1{
     padding: 10px 0 20px 0;
     margin: 0 0 10px 0;
     color: #333;
-  /* background:#333; */
 }
 
 #toggle{ 
@@ -278,13 +277,19 @@ h1{
 }
 /* link */
 #linked,#git{
-    width:300px;
+    width: 100%;
+    max-width: 270px;
     margin: 25px auto;
+    padding: 0;
     display: block;
 }
 .linked-in{
     width: 300px;
     margin: 25px auto;
+}
+#linked_img{
+    width: 100%;
+    max-width: 270px;
 }
 #git_img{
     width: 100%;
