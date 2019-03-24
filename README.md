@@ -1,8 +1,8 @@
 #portfolio
 
-URL: https://adam22gary.github.io/
+WEBSITE URL: https://adam22gary.github.io/
 
-GitHub: https://github.com/adam22gary/adam22gary.github.io
+GITHUB: https://github.com/adam22gary/adam22gary.github.io
 
 
 #
@@ -20,12 +20,15 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 To complete a portfolio website as a digital resume for future potential employers, allowing them to view my web development abilities, personality, linkedIn and contact information.
 
 #
-#Functionality:
+#Functionality and features
 
 1. Responsive on all devices
 2. JavaScript - on click functions
+3. JavaScript - Welcome message
 3. JavaScript - date, time, weather
 4. Links - LinkedIn, GitHub and Google Maps
+5. Gallery
+6. Icon in the tab
 
 #
 #Sitemap:
@@ -73,6 +76,24 @@ Potential employers
 7. Evaluate the design
 8. Produce final product
 
+
+#
+#Project Planning and timeline
+
+Day 1-2
+1. Research and Brainstorming
+2. Design wireframe layouts
+3. Choose a color scheme and font styles
+
+Day 2-4
+4. Collect and resize images
+5. Use of flex box and tables
+6. Protype testing Html, Css and JavaScript
+
+Day 4-6
+7. Evaluate the design
+8. Produce final product
+
 #
 #Wireframes:
 
@@ -91,7 +112,7 @@ Potential employers
 #
 #Usability considerations
 
-1. alt attribute on image tags for accessibility
+1. alt attribute on image tags and lang attribute on the html tag for accessibility
 2. title attribute on anchor tags, buttons, images and links for a description
 3. The use of white space and padding to unclutter the website
 4. Font and background color contrast ratio
