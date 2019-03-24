@@ -77,8 +77,10 @@ Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http
 1. alt attribute on image tag for accessibility
 2. title attribute on anchor tag, button, images and links for a description
 3. The use of white space and padding to unclutter the website
-4. A responsive website on all devices
-5. The use of correct and relevant content - focus more on content and layout functions
+4. Font and background color contrast ratio
+5. Font on an image has a transparent background
+6. A responsive website on all devices
+7. The use of correct and relevant content - focus more on content and layout functions
 
 #Project plan:
 
