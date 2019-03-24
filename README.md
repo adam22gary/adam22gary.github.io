@@ -29,8 +29,8 @@ d. Your study and work history.
 #Functionality:
 
 1. Responsive on all devices
-2. Javascript - on click functions
-3. Javascript - date, time, weather
+2. JavaScript - on click functions
+3. JavaScript - date, time, weather
 4. Links - LinkedIn, GitHub and Google Maps
 
 #Sitemap:
@@ -53,7 +53,7 @@ add image of site map
 
 Potential employers
 
-#Tech Stack:
+#Tech and languages:
 
 1. Html
 2. Css
@@ -61,7 +61,9 @@ Potential employers
 4. Cloud Flare
 5. GitHub
 6. Balsamic
-7. terminal
+7. Visual Studios
+8. Fireworks and Photoshop
+9. terminal
 
 #Design process:
 
@@ -83,12 +85,11 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 
 #Usability considerations
 
-1. alt attribute on image tag
+1. alt attribute on image tag for accessibility
 2. title attribute on anchor tag, button, images and links
 3. The use of white space and padding to unclutter the website
-4. Content centered for desktop and mobile
-5. Focus more on content and layout functions rather then strong background colors and 
-
+4. A responsive website on all devices
+5. The use of correct and relevant content - focus more on content and layout functions
 
 #Project plan:
 
