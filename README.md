@@ -65,7 +65,7 @@ Potential employers
 #Design process:
 
 1. Research and Brainstorming
-2. Design wireframe layout
+2. Design wireframe layouts
 3. Choose a color scheme and font styles
 4. Collect and resize images
 5. Use of flex box and tables
@@ -91,11 +91,11 @@ Potential employers
 #
 #Usability considerations
 
-1. alt attribute on image tag for accessibility
-2. title attribute on anchor tag, button, images and links for a description
+1. alt attribute on image tags for accessibility
+2. title attribute on anchor tags, buttons, images and links for a description
 3. The use of white space and padding to unclutter the website
 4. Font and background color contrast ratio
-5. Font on an image has a transparent background
+5. Transparent background for font on an image
 6. A responsive website on all devices
 7. The use of correct and relevant content - focus more on content and layout functions
 
