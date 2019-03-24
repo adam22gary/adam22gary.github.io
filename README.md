@@ -64,7 +64,14 @@ Potential employers
 #
 #Design process:
 
-Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http://colormind.io/ for color scheme (which end up being white, black and grey). Coding testing Html, Css, JavaScript while pushing to GitHub. Production.
+1. Research and Brainstorming
+2. Design wireframe layout
+3. Choose a color scheme and font styles
+4. Collect and resize images
+5. Use of flex box and tables
+6. Protype testing Html, Css and JavaScript
+7. Evaluate the design
+8. Produce final product
 
 #
 #Wireframes:
