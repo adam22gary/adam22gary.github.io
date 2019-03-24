@@ -72,7 +72,7 @@ Potential employers
 3. Choose a color scheme and font styles
 4. Collect and resize images
 5. Use of flex box and tables
-6. Protype testing Html, Css and JavaScript
+6. Prototype testing Html, Css and JavaScript
 7. Evaluate the design
 8. Produce final product
 
@@ -88,7 +88,7 @@ Day 1-2
 Day 2-4
 4. Collect and resize images
 5. Use of flex box and tables
-6. Protype testing Html, Css and JavaScript
+6. Prototype testing Html, Css and JavaScript
 
 Day 4-6
 7. Evaluate the design
@@ -116,7 +116,7 @@ Day 4-6
 2. title attribute on anchor tags, buttons, images and links for a description
 3. The use of white space and padding to unclutter the website
 4. Font and background color contrast ratio
-5. Transparent background for font on an image
+5. Transparent background for font on images
 6. A responsive website on all devices
 7. The use of correct and relevant content - focus more on content and layout functions
 
