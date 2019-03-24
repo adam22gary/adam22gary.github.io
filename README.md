@@ -9,7 +9,7 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 
 #IMPORTANT:
 
-1. Read the read me file on github to see the images of wireframes and screenshots 
+1. View the read me file on github to see the images of wireframes and screenshots 
 2. Allow the website your location for the weather to activate
 3. Javascript needs to be enabled, if not already so.
 
@@ -56,7 +56,7 @@ Potential employers
 
 #Design process:
 
-Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (which end up being white, black and grey). Coding Html, Css, JavaScript while pushing to GitHub.
+Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http://colormind.io/ for color scheme (which end up being white, black and grey). Coding testing Html, Css, JavaScript while pushing to GitHub. Production.
 
 #Wireframes:
 
