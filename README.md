@@ -134,7 +134,7 @@ The DNS keeps records of IP address and corresponding domain names.
 
 A browser is an application used to access and view websites displaying the webpage back to the user.
 
-The browser connect through a domain name server which manages a database that maps domain names to an IP addresses.
+The browser connects through a domain name server which manages a database that maps domain names to IP addresses.
 
 
 #
