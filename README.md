@@ -89,6 +89,7 @@ Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-trello-b-I0NeDnUO-resume-coder-academy-2019-03-23-22_51_46.png "Trello complete")
 
 
+#
 1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
 
 Keys events:
@@ -104,6 +105,7 @@ Keys events:
 10. 2008- Google index reaches 1 Trillion URLs. 
 
 
+#
 2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
 Domain names are used to identify one or more IP addresses.
@@ -117,6 +119,7 @@ A browser is an application used to access and view websites displaying the webp
 The browser connect through a domain name server which manages a database that maps domain names to an IP addresses.
 
 
+#
 3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
 Online Banking
