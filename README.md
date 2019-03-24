@@ -5,6 +5,7 @@ URL: https://adam22gary.github.io/
 GitHub: https://github.com/adam22gary/adam22gary.github.io
 
 
+#
 #Instruction for use:
 
 #IMPORTANT:
@@ -13,10 +14,12 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 2. Allow the website your location for the weather to activate
 3. Javascript needs to be enabled, if not already so.
 
+#
 #Purpose:
 
 To complete a portfolio website as a digital resume for future potential employers, allowing them to view my web development abilities, personality, linkedIn and contact information.
 
+#
 #Functionality:
 
 1. Responsive on all devices
@@ -24,10 +27,12 @@ To complete a portfolio website as a digital resume for future potential employe
 3. JavaScript - date, time, weather
 4. Links - LinkedIn, GitHub and Google Maps
 
+#
 #Sitemap:
 
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/sitemap.fw.png "site map")
 
+#
 #Screenshots:
 
 1. Desktop - 
@@ -38,10 +43,12 @@ To complete a portfolio website as a digital resume for future potential employe
 
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-adam22gary-github-io-2019-03-22-13_45_22.png "screenshot phone")
 
+#
 #Target audience:
 
 Potential employers
 
+#
 #Tech and languages:
 
 1. Html5
@@ -54,10 +61,12 @@ Potential employers
 8. Fireworks and Photoshop
 9. terminal
 
+#
 #Design process:
 
 Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http://colormind.io/ for color scheme (which end up being white, black and grey). Coding testing Html, Css, JavaScript while pushing to GitHub. Production.
 
+#
 #Wireframes:
 
 1. Pen and Paper - 
@@ -72,6 +81,7 @@ Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http
 
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/wireframesSmartPhone.png "wireframes phone")
 
+#
 #Usability considerations
 
 1. alt attribute on image tag for accessibility
@@ -82,6 +92,7 @@ Use of Balsamic, pen and paper for wireframe layout, Trello, Brainstorming, http
 6. A responsive website on all devices
 7. The use of correct and relevant content - focus more on content and layout functions
 
+#
 #Project plan:
 
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-trello-b-I0NeDnUO-resume-coder-academy-2019-03-22-15_58_05.png "Trello")
