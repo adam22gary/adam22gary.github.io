@@ -35,9 +35,7 @@ d. Your study and work history.
 
 #Sitemap:
 
-index.html
-
-add image of site map
+![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/sitemap.fw.png "site map")
 
 #Screenshots:
 
