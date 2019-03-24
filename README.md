@@ -15,16 +15,7 @@ GitHub: https://github.com/adam22gary/adam22gary.github.io
 
 #Purpose:
 
-To complete the assignment as a digital resume for future potential employers.
-
-This project is to be completed individually.
-You are to design, build, deploy and present a portfolio website.
-
-At a minimum, your website must include the following information,
-a. Your name and contact details.
-b. Links to your Github and LinkedIn accounts.
-c. Information about you to demonstrate your personality.
-d. Your study and work history.
+To complete a portfolio website as a digital resume for future potential employers, allowing them to view my web development abilities, personality, linkedIn and contact information.
 
 #Functionality:
 
@@ -53,8 +44,8 @@ Potential employers
 
 #Tech and languages:
 
-1. Html
-2. Css
+1. Html5
+2. Css3
 3. JavaScript
 4. Cloud Flare
 5. GitHub
@@ -84,7 +75,7 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 #Usability considerations
 
 1. alt attribute on image tag for accessibility
-2. title attribute on anchor tag, button, images and links
+2. title attribute on anchor tag, button, images and links for a description
 3. The use of white space and padding to unclutter the website
 4. A responsive website on all devices
 5. The use of correct and relevant content - focus more on content and layout functions
@@ -95,25 +86,41 @@ Use of Balsamic, pen and paper, Trello, http://colormind.io/ for color scheme (w
 
 ![alt text](https://github.com/adam22gary/adam22gary.github.io/blob/master/docs/screencapture-trello-b-I0NeDnUO-resume-coder-academy-2019-03-23-22_51_46.png "Trello complete")
 
-3 Questions
 
 1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
 
-Key events in the development of the internet from 1980s include items such as being able to access the internet from computers connected by cables which later evolved to being able to access the internet through wireless technologies, not limited to the computer anymore but to other new devices.
-Other aspects of developments of the internet have also directly influenced the advancement of web softwares in which we use in our daily lives such as the ability to network and share our ideas, thoughts and likes in the blink of an eye. Technologies such as Facebook and youtube are examples of this.
+Keys events:
+1. 1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
+2. 1990 – A hypertext system is created and implemented.
+3. 1990- The first search engine is created.
+4. 1993- The first web browser, Mosaic (created by NCSA), is released.
+5. 1994 – First internet ordering system created by Pizza Hut.
+6. 1994 – First internet bank opened: First Virtual.
+7. 1998- Netscape releases source code for Navigator.
+8. 1999 – A wireless technology called 802.11b Wi-Fi.
+9. 2001 – Blackberry releases first internet cell phone in the United States.
+10. 2008- Google index reaches 1 Trillion URLs. 
 
 
 2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
-Domains are essentially a string of characters. The DNS (Domain name system) converts this string to an IP address to provide the required webpage.
-Web servers on the other hand consist of all the data on the internet. It is a system that creates and provides webpages for people to search.
+Domain names are used to identify one or more IP addresses.
 
-A web browser is computing software which helps in searching for information, pinpointing its exact location and displaying the webpage back to the user.
+A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form Web pages to users.
+
+The DNS keeps records of IP address and corresponding domain names. 
+
+A browser is an application used to access and view websites displaying the webpage back to the user.
+
+The browser connect through a domain name server which manages a database that maps domain names to an IP addresses.
 
 
 3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
-With the increasing development of internet technologies, life has become increasingly more efficient and easier to navigate around. From being able to shop from the comfort of your own home to connecting to people around the world via video feeds. It has brought people around the world closer together than previously before while maintaining ease and comfort.
+Online Banking
 
+Online Banking is a method of banking in which transactions are conducted electronically over the Internet through a browser.
+
+Online Banking provides convenience as banking hours are 9:30am to 4:00pm (No lines or wait time), ability to view transaction history, pay your bills online and transfer money between accounts.
 
 
